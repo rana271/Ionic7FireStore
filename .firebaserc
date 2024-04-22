@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "hello-8a90b": {
+      "hosting": {
+        "app": [
+          "hello-8a90b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "hello-8a90b"
+  }
+}
